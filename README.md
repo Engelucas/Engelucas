@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o Lucas Nogueira</h1>
-<h3 align="center">Apaixonado em análise e desenvolvimento de sistemas, estudando este mundo mágico</h3>
+<h3 align="center">Apaixonado por engenharia, sou Eng. Civil e entrando no mundo da tech com muito orguho e satisfação</h3>
 
 - 🔭 Finalizamos o projeto do primeiro semestre [Front-end, criando um formulário de notas](https://replit.com/@engelucasnoguei/Projeto-Formulario-HTML-2024-05-06#index.html)
 
