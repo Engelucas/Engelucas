@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python, AWS e Participando da Trilha Santander TECH + BACKEND**
 
-- 💬 Me pergunte sobre **PYTHON, C#**
+- 💬 Me pergunte sobre **PYTHON, AWS**
 
 - 📫 Voce me acha através do e-mail **enge.lucasnogueira@gmail.com**
 
